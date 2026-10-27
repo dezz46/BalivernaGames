@@ -1,15 +1,15 @@
 // GAME SETUP — update these values and the act details for each new game.
 // Use a new storageKey for a new game, so old saved progress doesn't carry over.
 const gameConfig = {
-  gameName: "THE LAST ROOM",
-  storageKey: "the-last-room-game-v1",
+  gameName: "THE VOSS INCIDENT",
+  storageKey: "the-voss-incident-game-v1",
   logo: "assets/logo.png",
   titleTop: "Find your way",
   titleBottom: "out.",
   intro: "Enter your answer to unlock the next act.",
-  finishLineOne: "ALL SIX ACTS COMPLETE",
-  finishLineTwo: "You made it out.",
-  finishLineThree: "The door is open. Your team escaped the room.",
+  finishLineOne: "ALL CHALLENGES COMPLETE",
+  finishLineTwo: "You figured it out.",
+  finishLineThree: "Dr. Voss was right after all. The cure seems to be working, and there may still be time to save everyone.",
   moreGamesText: "Ready for another challenge?",
   moreGamesButton: "EXPLORE MORE GAMES",
   moreGamesUrl: "https://example.com/games"
